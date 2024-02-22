@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @T2-Software
-- 📫 How to reach me github@t2.com.tr
+T2 strives to create high quality engineering and design teams because, in our opinion, human resources are the most valuable capital. T2 Engineers have degrees from the best universities in Turkey and have proven themselves through their previous work experience.
 
-
-<!---
-T2-Software/T2-Software is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[t2.com.tr](https://t2.com.tr)
